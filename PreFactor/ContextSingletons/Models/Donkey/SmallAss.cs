@@ -13,7 +13,7 @@ namespace ContextSingletons.Models.Donkey
             Age = age;
             NumberOfLegs = numberOfLegs;
             if (!HttpContext.Current.User.Identity.IsAuthenticated)
-                throw new Exception("This aint real no donkey");
+                throw new Exception("This aint no real donkey");
         }
 
         public string Name
