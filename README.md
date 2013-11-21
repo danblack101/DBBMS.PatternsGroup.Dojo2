@@ -9,7 +9,10 @@ Post Dojo
 -------------------------
 
 Comments:
+
 Boy scout rule (leave things just a bit tidier)
+
 "Example was good, but easier said than done"
+
 Will help unit tests be unit tests (not integration tests)
 
