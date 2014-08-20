@@ -1,3 +1,4 @@
+
 DBBMS.PatternsGroup.Dojo2
 =========================
 
@@ -15,4 +16,6 @@ Boy scout rule (leave things just a bit tidier)
 "Example was good, but easier said than done"
 
 Will help unit tests be unit tests (not integration tests)
+
+**SAMPLE CHANGE**
 
